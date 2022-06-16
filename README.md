@@ -7,9 +7,10 @@ st is a simple terminal emulator for X which sucks less.
 
 Forked from [https://git.suckless.org/st/](https://git.suckless.org/st/)
 
+Homepage: [https://st.suckless.org/](https://st.suckless.org/)
+
 Features mouse scrolling and Nord Theme. Built with Manjaro and Z Shell (zsh) in mind.
 
-Homepage: [https://st.suckless.org/](https://st.suckless.org/)
 
 ### Patches
 #### [Scrollback](https://st.suckless.org/patches/scrollback/)
