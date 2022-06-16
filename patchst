@@ -1,0 +1,6 @@
+#!/usr/bin/zsh
+patch -Np1 -i patches/000*;
+patch -Np1 -i patches/001*;
+patch -Np1 -i patches/002*;
+patch -Np1 -i patches/003*;
+
