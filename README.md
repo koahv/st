@@ -9,7 +9,7 @@ Forked from [https://git.suckless.org/st/](https://git.suckless.org/st/)
 
 Homepage: [https://st.suckless.org/](https://st.suckless.org/)
 
-Features mouse scrolling and Nord Theme. Built with Manjaro and Z Shell (zsh) in mind.
+Features mouse scrolling and Nord Theme. Built with Arch and Z Shell (zsh) in mind.
 
 
 ### Patches
